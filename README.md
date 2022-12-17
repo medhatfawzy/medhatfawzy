@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @medhatfawzy
-- 👀 I’m interested in Software Development and Machine Learning
+- 👀 I’m interested in Software Engineering and Machine Learning
 - 🌱 I’m currently learning about AWS, Docker and Web Scraping
 - 💞️ I’m looking to collaborate on projects related to Machine Learning and Software Development.
 - 📫 How to reach me: medhat-fawzy@outlook.com
