@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @medhatfawzy
 - 👀 I’m interested in Data Science, Machine Learning and Software Engineering
 - 🌱 I'm currently a master's student at the University of Ottawa
-- 🌱 I’m currently learning about AWS, Docker and Web Scraping
 - 💞️ I’m looking to collaborate on projects related to Machine Learning and Software Development
 - 📫 How to reach me: medhat-fawzy@outlook.com
 
