@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Terraform**
 
-- 🤝 I’m looking for help with **on AI projects**
+- 🤝 I’m ready to collaborate on **AI projects**
 
 - 💬 Ask me about **AI, Data Science, ML, DL**
 
