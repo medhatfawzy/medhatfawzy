@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Medhat Fawzy</h1>
-<h3 align="center">A passionate ML and Software engineer from Egypt</h3>
+<h3 align="center">A passionate ML and software engineer from Egypt</h3>
 
 - 🔭 I’m currently working on **on machine learning and data engineering projects**
 
